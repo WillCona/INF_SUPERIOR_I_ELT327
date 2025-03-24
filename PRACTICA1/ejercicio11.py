@@ -25,3 +25,4 @@ for i in range(max_char - 1, ord('a') - 1, -1):
     for j in range(i - 1, ord('a') - 1, -1):
         print(chr(j), end=" ")
     print()
+    
